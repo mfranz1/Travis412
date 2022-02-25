@@ -1,7 +1,5 @@
 package travis_ci_tutorial_java;
 
-import org.junit.Test;
-
 public class ArrayOperations 
 {
 // Adapted from "Introduction to Software Testing", 
