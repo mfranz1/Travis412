@@ -1,5 +1,7 @@
 package travis_ci_tutorial_java;
 
+import org.junit.Test;
+
 public class ArrayOperations 
 {
 // Adapted from "Introduction to Software Testing", 
@@ -16,7 +18,6 @@ public class ArrayOperations
       return count;
    }
  
-   
    public static int add(int a, int b)
    {
 	   return a+b;
